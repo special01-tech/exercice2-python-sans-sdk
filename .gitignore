@@ -1,0 +1,4 @@
+.env
+__pycache__/
+image.png
+video.mp4
